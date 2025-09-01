@@ -6,6 +6,18 @@
     <img alt="Cadu's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mordegb&theme=tokyonight&hide_border=true">
 </div>
 
+<div>
+      <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+<img align="center" alt="Eduardo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
+
+
+<img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+    
+</div>
+
 <!--
 **Mordegb/Mordegb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
