@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<div>
+    <img alt="Cadu's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mordegb&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Cadu's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mordegb&theme=dracula&hide_border=true">
+</div>
+
 <!--
 **Mordegb/Mordegb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
