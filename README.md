@@ -8,6 +8,10 @@
 <img alt="Cadu's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mordegb&theme=tokyonight&hide_border=true">
       
 </div>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
+
 
 <div>
       <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
