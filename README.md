@@ -9,7 +9,7 @@
       
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=500"/>
 
 
 
