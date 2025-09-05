@@ -1,6 +1,6 @@
 ## Hello world!
 
-    #coisas bonitas do inicio
+<!-- estatisticas bonitas do comecço-->
 <div>
     <img alt="Cadu's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&count_private=true&hide_border=false">
 
@@ -12,6 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&card_width=500"/>
 
 
+
+<!-- linguagem que eu sei-->
     #linguagens
 <div>
       <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
