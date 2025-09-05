@@ -14,7 +14,7 @@
 
 
 <!-- linguagem que eu sei-->
-    #linguagens
+
 <div>
       <img align="center" alt="Eduardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
