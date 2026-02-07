@@ -1,8 +1,8 @@
 # Frontend Developer!
 
 <div align="center">
-  <img alt="Cadu's Github Stats" height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
-  <img alt="Cadu's GitHub Streak" height="155em" src="https://streak-stats.demolab.com/?user=Mordegb&theme=tokyonight&hide_border=false" />
+  <img alt="Cadu's Github Stats" height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
+  <img alt="Cadu's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Mordegb&theme=tokyonight&hide_border=false" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
   ## linguagens:
 <div>
   <img align="center" alt="C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt= "java" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt= "java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
