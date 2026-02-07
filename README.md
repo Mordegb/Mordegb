@@ -10,8 +10,15 @@
 </div>
 
   ## linguagens
-<div align="center">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<div >
+  <img align="center" alt="C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt= "java" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
+
+  ## tecnologias
+<div >
+  <img align="center" alt= "git" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt= "angular" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="react" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
