@@ -1,8 +1,8 @@
 # Hello world!
 
 <div align="center">
-  <img alt="Cadu's Github Stats" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
-  <img alt="Cadu's GitHub Streak" height="150em" src="https://streak-stats.demolab.com/?user=Mordegb&theme=tokyonight&hide_border=false" />
+  <img alt="Cadu's Github Stats" height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
+  <img alt="Cadu's GitHub Streak" height="155em" src="https://streak-stats.demolab.com/?user=Mordegb&theme=tokyonight&hide_border=false" />
 </div>
 
 <div align="center">
