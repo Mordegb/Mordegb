@@ -1,4 +1,4 @@
-# Hello world!
+# Frontend Developer!
 
 <div align="center">
   <img alt="Cadu's Github Stats" height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
@@ -10,7 +10,7 @@
 </div>
 
   ## linguagens
-<div >
+<div>
   <img align="center" alt="C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt= "java" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -18,7 +18,7 @@
 
   ## tecnologias
 <div >
-  <img align="center" alt= "git" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt= "angular" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="react" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt= "git" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
