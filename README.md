@@ -9,14 +9,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&card_width=500" />
 </div>
 
-  ## linguagens
+  ## linguagens:
 <div>
   <img align="center" alt="C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt= "java" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
-  ## tecnologias
+  ## tecnologias:
 <div >
   <img align="center" alt= "angular" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="react" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
