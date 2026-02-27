@@ -12,7 +12,7 @@
   ## linguagens:
 <div>
   <img align="center" alt="C" height="75" width="55" src="https://github.com/user-attachments/assets/139f398f-8971-411f-9a73-8610736d82de">
-  <img align="center" alt= "java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt= "java" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="HTML5" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
