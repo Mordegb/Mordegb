@@ -9,18 +9,20 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&card_width=500" />
 </div>
 
-  ## linguagens:
-<div>
-  <img align="center" alt="C" height="75" width="55" src="https://github.com/user-attachments/assets/139f398f-8971-411f-9a73-8610736d82de">
-  <img align="center" alt= "java" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="typescript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="HTML5" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+## Linguagens:
+
+<div align="left">
+  <img alt="C" height="70" src="https://github.com/user-attachments/assets/139f398f-8971-411f-9a73-8610736d82de" />
+  <img alt="Java" height="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="TypeScript" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="HTML5" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-  ## tecnologias:
-<div >
-  <img align="center" alt= "angular" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="react" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt= "git" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+## Tecnologias:
+
+<div align="left">
+  <img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;
+  <img alt="React" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
+  <img alt="Git" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
