@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&card_width=500" />
 </div>
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Mordegb&layout=compact&hide_border=false&theme=tokyonight&card_width=400" />
+</p> -->
+
 ## Linguagens:
 
 <div align="left">
