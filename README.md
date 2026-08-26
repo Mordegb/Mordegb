@@ -1,17 +1,15 @@
 # Frontend Developer!
 
+
 <div align="center">
-  <img alt="Cadu's Github Stats" height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
+  <img alt="Cadu's Github Stats" height="160px" src="https://github-readme-stats-fast.vercel.app/api?username=Mordegb&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
   <img alt="Cadu's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Mordegb&theme=tokyonight&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&card_width=500" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&card_width=500" />
 </div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Mordegb&layout=compact&hide_border=false&theme=tokyonight&card_width=400" />
-</p> -->
 
 ## Linguagens:
 
