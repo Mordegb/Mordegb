@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&card_width=500" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mordegb&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&card_width=500&hide=c,html,cmake" />
 </div>
 
 
